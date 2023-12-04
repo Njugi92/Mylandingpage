@@ -1,6 +1,4 @@
-<!-- Add an HTML tag with the image -->
-<img src="./assets/img/marketing.JPEG" alt="Cover Image">
-
+![Cover Image](/assets/img/coverimg.jpg)
 ## Experience
 
 ### Fullstack & Web Developer
@@ -15,10 +13,7 @@ I'm dedicated to creating engaging and user-friendly web experiences, leveraging
 
 Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
 
-<!-- Your Image -->
-<div align="center">
-  <img src="/assets/img/karuma.jpg" alt="Njugi Karuma" width="200"/>
-</div>
+![Profile Image](/assets/img/karuma.jpg)
 
 Web Scraping Project
 
