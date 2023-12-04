@@ -14,6 +14,9 @@ I'm dedicated to creating engaging and user-friendly web experiences, leveraging
 Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
 
 ![Profile Image](/assets/img/karuma.jpg)
+<div style="float: right; margin-left: 20px;">
+  <img src="/assets/img/karuma.jpg" alt="Profile Image" width="200px">
+</div>
 
 Web Scraping Project
 
