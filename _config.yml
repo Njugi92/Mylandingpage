@@ -4,4 +4,4 @@ theme_config:
   cover: /assets/img/coverimg.jpg
 description: This project focus on getting specific data on a website and saving it on csv file.
 logo: /assets/img/realEstatewebsite.PNG
-theme: jekyll-theme-Minima
+theme: jekyll-theme-Modernist
