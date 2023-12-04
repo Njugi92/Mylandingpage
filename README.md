@@ -1,3 +1,6 @@
+<!-- Add an HTML tag with the image -->
+<img src="/assets/img/coverimg.jpg" alt="Cover Image" style="width:100%;">
+
 Web Scraping Project
 
 This Python script performs web scraping on a specific URL (https://milikispace.co.ke/projects/). It extracts data related to project titles from multiple pages and saves it into a CSV file named milikispace.csv.
