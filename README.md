@@ -1,6 +1,25 @@
 <!-- Add an HTML tag with the image -->
 <img src="./assets/img/marketing.JPEG" alt="Cover Image">
 
+## Experience
+
+### Fullstack & Web Developer
+
+Hey there! 👋 I'm Njugi Karuma, a passionate fullstack and web developer with expertise in various technologies:
+
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks**: Node.js, React, Angular
+- **Deployment**: Proficient in deploying websites on server.
+
+I'm dedicated to creating engaging and user-friendly web experiences, leveraging my skills in frontend and backend development. My journey involves diving into cybersecurity to ensure robust and secure applications.
+
+Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
+
+<!-- Your Image -->
+<div align="center">
+  <img src="/assets/img/karuma.jpg" alt="Njugi Karuma" width="200"/>
+</div>
+
 Web Scraping Project
 
 This Python script performs web scraping on a specific URL (https://milikispace.co.ke/projects/). It extracts data related to project titles from multiple pages and saves it into a CSV file named milikispace.csv.
@@ -33,24 +52,3 @@ Find the project repository on [GitHub](https://github.com/Njugi92/scraping-port
 Feel free to reach out on LinkedIn or Twitter:
 - [LinkedIn](https://www.linkedin.com/in/kennedy-karuma-96a858164/)
 - [Twitter](https://twitter.com/@njugikaruma20)
-
-## Personality
-
-### Fullstack & Web Developer
-
-Hey there! 👋 I'm Njugi Karuma, a passionate fullstack and web developer with expertise in various technologies:
-
-- **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks**: Node.js, Angular, React, Django, Ruby on rails
-- **Deployment**: Proficient in deploying websites on servers
-- **Cyber Security**: Penetration testing, Identity and access management, Threat intelligence and analysis
-
-I'm dedicated to creating engaging and user-friendly web experiences, leveraging my skills in frontend and backend development. My journey involves diving into cybersecurity to ensure robust and secure applications.
-
-Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
-
-<!-- Your Image -->
-<div align="center">
-  <img src="./assets/img/karuma.jpg" alt="Njugi Karuma" width="200"/>
-</div>
-
