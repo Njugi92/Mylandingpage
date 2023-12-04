@@ -1,5 +1,5 @@
 <!-- Add an HTML tag with the image -->
-<img src="/assets/img/marketing.JPEG" alt="Cover Image">
+<img src="./assets/img/marketing.JPEG" alt="Cover Image">
 
 Web Scraping Project
 
@@ -51,6 +51,6 @@ Feel free to reach out for collaboration or discussions on web development, secu
 
 <!-- Your Image -->
 <div align="center">
-  <img src="/assets/img/karuma.jpg" alt="Njugi Karuma" width="200"/>
+  <img src="./assets/img/karuma.jpg" alt="Njugi Karuma" width="200"/>
 </div>
 
