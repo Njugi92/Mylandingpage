@@ -1,3 +1,4 @@
 title: Web scraping project
 description: This project focus on getting specific data on a website and saving it on csv file.
+logo: /assets/img/realEstatewebsite.PNG
 theme: jekyll-theme-minimal
