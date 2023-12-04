@@ -1,6 +1,7 @@
 title: Web scraping project
 # Set the cover image URL
-cover_img: /assets/img/coverimg.jpg
+theme_config:
+  cover: /assets/img/coverimg.jpg
 description: This project focus on getting specific data on a website and saving it on csv file.
 logo: /assets/img/realEstatewebsite.PNG
 theme: jekyll-theme-minimal

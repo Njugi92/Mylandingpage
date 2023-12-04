@@ -1,5 +1,5 @@
 <!-- Add an HTML tag with the image -->
-<img src="/assets/img/coverimg.jpg" alt="Cover Image" style="width:100%;">
+<img src="/assets/img/coverimg.jpg" alt="Cover Image">
 
 Web Scraping Project
 
