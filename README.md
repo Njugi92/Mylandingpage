@@ -13,3 +13,24 @@ Libraries Used
 
 How the Script Works
 The script iterates through multiple pages of the specified URL and extracts project titles by parsing the HTML content. It then performs cleaning operations on the extracted data to remove unnecessary characters and spaces. Finally, it stores the cleaned data into a CSV file.
+
+## About
+
+This real estate web scraper project was inspired by the need to gather comprehensive data from real estate listings to analyze market trends and assist users in making informed decisions when buying or selling properties.
+
+### Inspiration
+
+- Personal Use: Creating a tool to simplify personal property searches, comparing listings, or tracking changes in property values.
+- Automated Insights: Providing users with automated insights into the real estate market, such as the average price trends, popular neighborhoods, or types of properties available.
+- Learning and Skill Enhancement: To improve skills in web scraping, data cleaning, and analysis using Python, while also gaining a better understanding of real estate data.
+
+### Project Repository
+
+Find the project repository on [GitHub](https://github.com/Njugi92/scraping-portifolio_project).
+
+### Contact
+
+Feel free to reach out on LinkedIn or Twitter:
+- [LinkedIn](https://www.linkedin.com/in/kennedy-karuma-96a858164/)
+- [Twitter](https://twitter.com/@njugikaruma20)
+
