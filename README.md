@@ -13,11 +13,7 @@ I'm dedicated to creating engaging and user-friendly web experiences, leveraging
 
 Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
 
-![Profile Image](/assets/img/karuma.jpg)
-<div style="float: right; margin-left: 20px;">
-  <img src="/assets/img/karuma.jpg" alt="Profile Image" width="200px">
-</div>
-
+<div class="profile-image"></div>
 Web Scraping Project
 
 This Python script performs web scraping on a specific URL (https://milikispace.co.ke/projects/). It extracts data related to project titles from multiple pages and saves it into a CSV file named milikispace.csv.

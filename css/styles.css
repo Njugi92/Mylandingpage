@@ -1,0 +1,11 @@
+/* Add a class to style the circular image */
+.profile-image {
+  float: right;
+  margin-left: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-image: url('/assets/img/karuma.jpg');
+  background-size: cover;
+}
+
