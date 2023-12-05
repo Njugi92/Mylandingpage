@@ -12,8 +12,9 @@ Hey there! 👋 I'm Njugi Karuma, a passionate fullstack and web developer with 
 I'm dedicated to creating engaging and user-friendly web experiences, leveraging my skills in frontend and backend development. My journey involves diving into cybersecurity to ensure robust and secure applications.
 
 Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
-
+![profile-image](/assets/img/karuma.jpg)
 <div class="profile-image"></div>
+
 Web Scraping Project
 
 This Python script performs web scraping on a specific URL (https://milikispace.co.ke/projects/). It extracts data related to project titles from multiple pages and saves it into a CSV file named milikispace.csv.
