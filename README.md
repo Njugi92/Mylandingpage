@@ -12,7 +12,7 @@ Hey there! 👋 I'm Njugi Karuma, a passionate fullstack and web developer with 
 I'm dedicated to creating engaging and user-friendly web experiences, leveraging my skills in frontend and backend development. My journey involves diving into cybersecurity to ensure robust and secure applications.
 
 Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
-![profile-image](/assets/img/karuma.jpg){: float : right; margin-left="20px"; width="150px"; height="150"; margin-radius=50%; background-size: cover; }
+![profile-image](/assets/img/karuma.jpg){: width="150px"; height="150"}
 <div class="profile-image"></div>
 
 Web Scraping Project
