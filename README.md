@@ -18,7 +18,6 @@ Feel free to reach out for collaboration or discussions on web development, secu
 Web Scraping Project
 
 This Python script performs web scraping on a specific URL (https://milikispace.co.ke/projects/). It extracts data related to project titles from multiple pages and saves it into a CSV file named milikispace.csv.
-
 Libraries Used
 - os: Provides operating system-related functionalities.
 - pandas: Used for data manipulation and CSV file creation.
@@ -28,9 +27,7 @@ Libraries Used
 How the Script Works
 The script iterates through multiple pages of the specified URL and extracts project titles by parsing the HTML content. It then performs cleaning operations on the extracted data to remove unnecessary characters and spaces. Finally, it stores the cleaned data into a CSV file.
 
-[![Button Image](/assets/img/karuma.jpg)](https://njugi92.github.io/scraping-portifolio_project/)
-
-[Go to Deployed Project](https://njugi92.github.io/scraping-portifolio-project/)
+[Go to Deployed Project](https://njugi92.github.io/Mylandingpage/scraping-portifolio-project/)
 
 
 ## About
