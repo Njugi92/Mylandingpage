@@ -13,7 +13,7 @@ I'm dedicated to creating engaging and user-friendly web experiences, leveraging
 
 Feel free to reach out for collaboration or discussions on web development, security, or anything tech-related!
 ![profile-image](/assets/img/karuma.jpg){: width="50px"; height="50"}
-<div class="profile-image"></div>
+
 
 Web Scraping Project
 
