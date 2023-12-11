@@ -50,3 +50,5 @@ Find the project repository on [GitHub](https://github.com/Njugi92/scraping-port
 Feel free to reach out on LinkedIn or Twitter:
 - [LinkedIn](https://www.linkedin.com/in/kennedy-karuma-96a858164/)
 - [Twitter](https://twitter.com/@njugikaruma20)
+## license
+[MIT license](LICENSE.md)
