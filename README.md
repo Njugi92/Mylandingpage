@@ -27,8 +27,8 @@ Libraries Used
 How the Script Works
 The script iterates through multiple pages of the specified URL and extracts project titles by parsing the HTML content. It then performs cleaning operations on the extracted data to remove unnecessary characters and spaces. Finally, it stores the cleaned data into a CSV file.
 
-[Go to Deployed Project](https://njugi92.github.io/Mylandingpage/scraping-portifolio_project/)
-[Go to deployed project](./Mylandingpage/scraping-portifolio_project/)
+[Go to Deployed Project](https://njugi92.github.io/Mylandingpage/scraping-portifolio_project/templates/display_data.html)
+[Go to deployed project](./Mylandingpage/scraping-portifolio_project/templates/display_data.html)
 
 
 ## About
